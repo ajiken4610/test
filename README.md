@@ -1,4 +1,3 @@
 AAA
-DDD
 EEE
 CCC
